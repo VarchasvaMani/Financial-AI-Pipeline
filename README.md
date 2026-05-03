@@ -473,7 +473,3 @@ Using `claude-sonnet-4-20250514` (the default model):
 This is an educational portfolio project. Nothing in this codebase constitutes financial advice. All signals, backtests, and portfolio optimisations are for learning and demonstration purposes only. Do not trade real capital based on the outputs of this system.
 
 ---
-
-## License
-
-MIT — free to use, modify, and distribute with attribution.
