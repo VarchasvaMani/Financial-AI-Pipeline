@@ -7,7 +7,7 @@
 ![Claude](https://img.shields.io/badge/AI-Claude%20API-purple?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red?style=flat-square)
 ![SQLite](https://img.shields.io/badge/DB-SQLite-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ---
 
