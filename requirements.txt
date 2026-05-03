@@ -1,0 +1,38 @@
+# Core
+yfinance>=0.2.36
+pandas>=2.0.0
+pandas-ta>=0.3.14b
+numpy>=1.24.0
+sqlalchemy>=2.0.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# ML / Signals
+lightgbm>=4.0.0
+shap>=0.44.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Dashboard
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# AI
+anthropic>=0.25.0
+
+# Alerts
+python-telegram-bot>=20.0
+schedule>=1.2.0
+
+# Live streaming
+websocket-client>=1.7.0
+aiohttp>=3.9.0
+
+# Data sources
+feedparser>=6.0.0
+
+# Auth (optional - for multi-user dashboard)
+passlib>=1.7.4
+bcrypt>=4.0.0
+python-jose>=3.3.0
